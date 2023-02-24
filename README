@@ -1,0 +1,18 @@
+% DMFIcode user instructions.
+
+DMFIcode is a set of matlab routines. Your system requirements are therefore:
+
+- MATLAB version > 7.0 
+
+- A computer with a decent cpu, and most importantly, a decent graphic accelerator card for fast openGL rendering.
+
+- Lots of hard disk space: DMFI works best when the time spacing between your G files is small, so you need many G files. As a rule of thumb, the spacing should be lower or equal to one tenth of the vortex turnover time 1/Urms, where Urms is the root-mean-squared velocity in the shell. 
+
+This distribution has code for MAGIC and PARODY. The code produces the graphical output exactly as it is presented in Aubert et. al, GJI, 2008.
+
+1) Put your graphic output files in the ForXXXX/Gfiles
+2) Run the runDMFI.m routine in the ForXXXX/ subdirectory
+3) Your jpeg output will appear in the ForXXXX/Frames subdirectory.
+
+If you have trouble understanding the code, just drop an email to aubert@ipgp.jussieu.fr. The code is not guaranteed bug free, so if you find one, drop me an email as well...
+

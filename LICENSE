@@ -1,24 +1,28 @@
-This is free and unencumbered software released into the public domain.
+DMFIcode LICENSE
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+DMFIcode was written by Julien Aubert, 2007.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+bug report, requested features, comments and correspondance:
+aubert@ipgp.jussieu.fr
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+DMFI web site
+http://www.ipgp.jussieu.fr/~aubert/DMFI.html
 
-For more information, please refer to <https://unlicense.org>
+This code is karmaware. You are free to use it, copy it, modify it, redistribute it, in short, to do whatever you wish with it.
+
+There are only two conditions: 
+1) the present LICENSE file should be included unmodified in all further re-distributions of the code or its parts.
+2) upon publication or presentation of results produced with DMFIcode or its parts, it should be mentioned that DMFI was used, with a mention of the author. The paper
+
+The magnetic structure of convection-driven numerical dynamos
+by Aubert, Aurnou, Wicht, Geophysical Journal International 172, 945-956 (2008), doi: 10.1111/j.1365-246X.2007.03693.x
+
+should be referenced clearly.
+
+The karma police will leave you in peace if you respect these two conditions :-)
+
+Enjoy DMFIcode!
+
+Julien Aubert
+
+
